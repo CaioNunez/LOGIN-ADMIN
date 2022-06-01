@@ -57,7 +57,7 @@ main {
 }
 
 label {
-  color: #ffffff;
+  color: #1eeb33;
   font-weight: 700;
   cursor: pointer;
 }
@@ -68,7 +68,7 @@ a {
 }
 
 a:hover {
-  color: #bf4848;
+  color: #36db24;
 }
 
 #container-signup {
